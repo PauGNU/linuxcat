@@ -44,7 +44,7 @@ body {
 	background: url('images/bg.png');
 	background-color: #faf4f4;
 	font-family: 'Open Sans', sans-serif;
-	color: #868686;
+	color: #666666;
 	line-height: 1.5;
 	word-wrap: break-word;
 }
@@ -429,7 +429,7 @@ table > tfoot > tr > td {
 }
 .widget,
 .widget a {
-	color: #aaa;
+	color: #777777;
 }
 .widget-title,
 .widgettitle {
@@ -514,7 +514,7 @@ table > tfoot > tr > td {
 }
 .post-date {
 	font-size: 13px;
-	color: #C8C8C8;
+	color: #888888;
 }
 .alizee_recent_comments .col-md-8,
 .alizee_recent_posts_widget .col-md-8 {
@@ -679,7 +679,7 @@ table > tfoot > tr > td {
 .entry-meta a,
 .entry-footer,
 .entry-footer a {
-	color: #C8C8C8;
+	color: #888888;
 	font-size: 13px;
 }
 .entry-meta span,
