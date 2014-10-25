@@ -19,6 +19,8 @@
 <?php endif; ?>
 
 <?php wp_head(); ?>
+<link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/css/style5.css" />
+<link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css' />
 </head>
 
 
