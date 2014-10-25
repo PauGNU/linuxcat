@@ -1248,3 +1248,7 @@ object {
 		box-shadow: none;
 	}	
 }
+
+
+@import url('css/buttons.css');
+@import url('css/style3.css');
